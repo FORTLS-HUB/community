@@ -1,16 +1,23 @@
+
 # FORTLS.com Community Hub
 
 Welcome to the official community repository for **[FORTLS.com](https://fortls.com)** — free, browser-based developer tools and scientific computing resources for Fortran developers.
 
+[![Website](https://shields.io)](https://fortls.com)
+[![GitHub Sponsors](https://shields.io)](https://github.com)
+[![Ko-fi](https://shields.io)](https://ko-fi.com/fortls)
+[![PayPal](https://shields.io)](https://www.paypal.com/paypalme/fortls)
+
 ## 🚀 Quick Links
-* **Free Browser Tools:** [.fortls Generator](https://fortls.com) • [Config Checker](https://fortls.com) • [fpm.toml Generator](https://fortls.com)
+* **Free Browser Tools:** [.fortls Generator](https://fortls.com) • [Config Checker](https://fortls.com) • [fpm.toml Generator](https://fortls.com) • [Quick Reference PDF](https://fortls.com)
 * **Join the Conversation:** [GitHub Discussions](https://github.com)
 * **Report an Issue or Request a Feature:** [Open an Issue](https://github.com)
 
 ## 💖 Support the Project
 All tools on FORTLS.com run in your browser and remain free for the community. If you find these resources helpful, consider supporting hosting and development:
-* **Ko-fi:** [://ko-fi.com](https://ko-fi.com/fortls)
-* **PayPal:** [paypal.me/fortls](https://paypal.me/fortls)
+* **GitHub Sponsors:** [://github.com](https://github.com)
+* **Ko-fi:** [ko-fi.com/fortls](https://ko-fi.com/fortls)
+* **PayPal:** [paypal.me/fortls](https://www.paypal.com/paypalme/fortls)
 
 ---
 
