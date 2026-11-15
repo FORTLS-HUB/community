@@ -9,8 +9,8 @@ Welcome to the official community repository for **[FORTLS.com](https://fortls.c
 
 ## 💖 Support the Project
 All tools on FORTLS.com run in your browser and remain free for the community. If you find these resources helpful, consider supporting hosting and development:
-* **Ko-fi:** [://ko-fi.com](https://://ko-fi.com)
-* **PayPal:** [paypal.me/fortls](https://paypal.com)
+* **Ko-fi:** [://ko-fi.com](https://ko-fi.com/fortls)
+* **PayPal:** [paypal.me/fortls](https://paypal.me/fortls)
 
 ---
 
