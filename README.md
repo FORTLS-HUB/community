@@ -20,11 +20,11 @@ All tools on FORTLS.com run in your browser and remain free for the community. I
 
 ### 🔗 Connect With Us
 * **Website:** [fortls.com](https://fortls.com)
-* **LinkedIn:** [FORTLS.com]([https://linkedin.com](https://www.linkedin.com/in/fortls/)) *(replace with your exact profile URL)*
-* **X (Twitter):** [@FORTLS]([https://x.com](https://x.com/FORTLSHUB)) *(replace with your exact handle)*
-* **Bluesky:** [fortls.com]([https://bsky.app](https://bsky.app/profile/fortls.bsky.social)) *(replace with your exact handle)*
-* **YouTube:** [@fortls]([https://youtube.com](https://www.youtube.com/@FORTLSHUB)) *(replace with your exact channel URL)*
-* **Reddit:** [FORTLS]([https://reddit.com](https://www.reddit.com/user/FORTLSHUB/)) *(replace with your exact profile URL)*
+* **LinkedIn:** [FORTLS.com](https://www.linkedin.com/in/fortls/)
+* **X (Twitter):** [@FORTLS](https://x.com/FORTLSHUB) 
+* **Bluesky:** [fortls.com](https://bsky.app/profile/fortls.bsky.social) 
+* **YouTube:** [@fortls](https://www.youtube.com/@FORTLSHUB)
+* **Reddit:** [FORTLS](https://www.reddit.com/user/FORTLSHUB/)
 ---
 
 > **Disclaimer:** FORTLS.com and FORTLS-HUB are independent community resources. They are **not** the official `fortls` (Fortran Language Server) project and are not affiliated with or endorsed by its maintainers.
