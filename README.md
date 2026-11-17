@@ -5,12 +5,13 @@ Welcome to the official community repository for **[FORTLS.com](https://fortls.c
 
 🌐 **Website:** [https://fortls.com](https://fortls.com)  
 📰 **Newsletter:** [FORTLS Ecosystem Digest](https://fortls.beehiiv.com/subscribe)
+---
 
 
 ## 🚀 Quick Links
-* **Free Browser Tools:** [.fortls Generator](https://fortls.com) • [Config Checker](https://fortls.com) • [fpm.toml Generator](https://fortls.com) • [Quick Reference PDF](https://fortls.com)
-* **Join the Conversation:** [GitHub Discussions](https://github.com)
-* **Report an Issue or Request a Feature:** [Open an Issue](https://github.com)
+* **Free Browser Tools:** [.fortls Generator](https://fortls.com/tools#fortls) • [Config Checker](https://fortls.com/tools#check) • [fpm.toml Generator](https://fortls.com/tools#fpm) • [Quick Reference PDF](https://fortls.com/downloads/fortran-developer-quick-reference.pdf)
+* **Join the Conversation:** [GitHub Discussions](https://github.com/orgs/FORTLS-HUB/discussions)
+* **Report an Issue or Request a Feature:** [Open an Issue](https://github.com/FORTLS-HUB/community/issues)
 
 ## 💖 Support the Project
 All tools on FORTLS.com run in your browser and remain free for the community. If you find these resources helpful, consider supporting hosting and development:
@@ -18,7 +19,9 @@ All tools on FORTLS.com run in your browser and remain free for the community. I
 * **Ko-fi:** [ko-fi.com/fortls](https://ko-fi.com/fortls)
 * **PayPal:** [paypal.me/fortls](https://www.paypal.com/paypalme/fortls)
 
-### 🔗 Connect With Us
+---
+
+## 🔗 Connect With Us
 * **Website:** [fortls.com](https://fortls.com)
 * **LinkedIn:** [FORTLS.com](https://www.linkedin.com/in/fortls/)
 * **X (Twitter):** [@FORTLS](https://x.com/FORTLSHUB) 
